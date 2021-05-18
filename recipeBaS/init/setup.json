@@ -1,0 +1,13 @@
+{
+  "run_name" : "run_id",
+  "population_names" : ["E", "I"],
+
+  "population_sizes" : [80,20],
+  "nidx" : 64,
+  "tstop" : 2200,
+  "dt" : -4,
+
+  "stim_sim_len" : 400,
+  "stim_sim_time" : 200,
+  "isyn_v_approx" : -64
+}

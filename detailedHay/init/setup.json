@@ -1,0 +1,15 @@
+{
+  "run_name" : "run_id",
+  "population_names" : ["E", "I"],
+
+  "population_sizes" : [80,20],
+  "nidx" : 64,
+  "tstop" : 500,
+  "dt" : -4,
+
+  "stim_sim_len" : 400,
+  "stim_sim_time" : 200,
+  "isyn_v_approx" : [-57.62, -63.82],
+
+  "additional_neuron_stim" : [4.625, 0.375]
+}
